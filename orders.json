@@ -1,0 +1,11 @@
+{
+        "import_source": "web",
+        "activated_at": "2019-10-01 01:24:34.000",
+        "activated_at_local": "2019-09-30 18:24:34.000",
+        "cooking_or_pick_completed_at": "2019-10-01 01:33:32.000",
+        "order_id": "5741b3e3",
+        "kitchen_id": "2bcb21bf",
+        "obfuscated_item_names": "[\"GN87 Organic Stir-Fry!\", \"GN87 Organic Stir-Fry!\"]",
+        "subtotal": 32.0,
+        "prep_time_seconds": 538.0
+    }
