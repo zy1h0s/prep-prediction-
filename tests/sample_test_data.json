@@ -1,0 +1,102 @@
+[
+  {
+    "order_id": "test_order_1",
+    "activated_at": "2019-10-15 12:30:00.000",
+    "activated_at_local": "2019-10-15 12:30:00.000",
+    "cooking_or_pick_completed_at": "2019-10-15 12:45:00.000",
+    "import_source": "web",
+    "kitchen_id": "kitchen_alpha",
+    "obfuscated_item_names": "[\"GN87 Organic Stir-Fry!\", \"GN87 Organic Stir-Fry!\"]",
+    "subtotal": 32.0
+  },
+  {
+    "order_id": "test_order_2",
+    "activated_at": "2019-10-15 18:15:00.000",
+    "activated_at_local": "2019-10-15 18:15:00.000",
+    "cooking_or_pick_completed_at": "2019-10-15 18:35:00.000",
+    "import_source": "app",
+    "kitchen_id": "kitchen_beta",
+    "obfuscated_item_names": "[\"Spicy Chicken Wings\", \"Caesar Salad\", \"Garlic Bread\"]",
+    "subtotal": 48.5
+  },
+  {
+    "order_id": "test_order_3",
+    "activated_at": "2019-10-16 08:00:00.000",
+    "activated_at_local": "2019-10-16 08:00:00.000",
+    "cooking_or_pick_completed_at": "2019-10-16 08:12:00.000",
+    "import_source": "web",
+    "kitchen_id": "kitchen_alpha",
+    "obfuscated_item_names": "[\"Breakfast Burrito\"]",
+    "subtotal": 12.0
+  },
+  {
+    "order_id": "test_order_4",
+    "activated_at": "2019-10-16 13:45:00.000",
+    "activated_at_local": "2019-10-16 13:45:00.000",
+    "cooking_or_pick_completed_at": "2019-10-16 14:05:00.000",
+    "import_source": "app",
+    "kitchen_id": "kitchen_gamma",
+    "obfuscated_item_names": "[\"Margherita Pizza\", \"Hawaiian Pizza\"]",
+    "subtotal": 38.0
+  },
+  {
+    "order_id": "test_order_5",
+    "activated_at": "2019-10-16 19:30:00.000",
+    "activated_at_local": "2019-10-16 19:30:00.000",
+    "cooking_or_pick_completed_at": "2019-10-16 19:50:00.000",
+    "import_source": "web",
+    "kitchen_id": "kitchen_beta",
+    "obfuscated_item_names": "[\"Beef Burger\", \"Fries\", \"Milkshake\", \"Onion Rings\"]",
+    "subtotal": 42.75
+  },
+  {
+    "order_id": "test_order_6",
+    "activated_at": "2019-10-17 11:00:00.000",
+    "activated_at_local": "2019-10-17 11:00:00.000",
+    "cooking_or_pick_completed_at": "2019-10-17 11:15:00.000",
+    "import_source": "app",
+    "kitchen_id": "kitchen_alpha",
+    "obfuscated_item_names": "[\"Vegan Bowl\", \"Vegan Bowl\", \"Green Smoothie\"]",
+    "subtotal": 36.0
+  },
+  {
+    "order_id": "test_order_7",
+    "activated_at": "2019-10-17 20:00:00.000",
+    "activated_at_local": "2019-10-17 20:00:00.000",
+    "cooking_or_pick_completed_at": "2019-10-17 20:22:00.000",
+    "import_source": "web",
+    "kitchen_id": "kitchen_gamma",
+    "obfuscated_item_names": "[\"Sushi Roll A\", \"Sushi Roll B\", \"Sushi Roll C\", \"Miso Soup\", \"Edamame\"]",
+    "subtotal": 65.0
+  },
+  {
+    "order_id": "test_order_8",
+    "activated_at": "2019-10-18 07:30:00.000",
+    "activated_at_local": "2019-10-18 07:30:00.000",
+    "cooking_or_pick_completed_at": "2019-10-18 07:40:00.000",
+    "import_source": "app",
+    "kitchen_id": "kitchen_beta",
+    "obfuscated_item_names": "[\"Pancakes\", \"Coffee\"]",
+    "subtotal": 15.5
+  },
+  {
+    "order_id": "test_order_9",
+    "activated_at": "2019-10-18 14:15:00.000",
+    "activated_at_local": "2019-10-18 14:15:00.000",
+    "cooking_or_pick_completed_at": "2019-10-18 14:30:00.000",
+    "import_source": "web",
+    "kitchen_id": "kitchen_alpha",
+    "obfuscated_item_names": "[\"Thai Curry\", \"Pad Thai\", \"Spring Rolls\"]",
+    "subtotal": 52.0
+  },
+  {
+    "order_id": "test_order_10",
+    "activated_at": "2019-10-18 21:00:00.000",
+    "activated_at_local": "2019-10-18 21:00:00.000",
+    "cooking_or_pick_completed_at": "2019-10-18 21:18:00.000",
+    "import_source": "app",
+    "kitchen_id": "kitchen_gamma",
+    "obfuscated_item_names": "[\"Steak\", \"Grilled Vegetables\", \"Mashed Potatoes\"]",
+    "subtotal": 58.0
+  }
+]
